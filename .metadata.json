@@ -1,5 +1,9 @@
 [
   {
+    "package": "MAAPER",
+    "oncran": true
+  },
+  {
     "package": "scINSIGHT",
     "oncran": true
   }
