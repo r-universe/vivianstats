@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MAAPER"]
 	path = MAAPER
 	url = https://github.com/vivianstats/maaper
-	shallow = true
-	registered = true
 [submodule "scINSIGHT"]
 	path = scINSIGHT
 	url = https://github.com/vivianstats/scinsight
-	shallow = true
-	registered = true
