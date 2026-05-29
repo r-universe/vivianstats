@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "MAAPER"]
-	path = MAAPER
-	url = https://github.com/vivianstats/maaper
 [submodule "scINSIGHT"]
 	path = scINSIGHT
 	url = https://github.com/vivianstats/scinsight
